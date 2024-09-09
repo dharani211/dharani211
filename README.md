@@ -9,7 +9,7 @@
 
 -   🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://mandladharanireddy.wixsite.com/website](https://mandladharanireddy.wixsite.com/website)
+- 👨‍💻 All of my projects are available at [https://dharanimandla.wixsite.com/portfolio](https://dharanimandla.wixsite.com/portfolio)
 
 - 💬 Ask me about **Machine Learning, Neural Networks, NLP**
 
