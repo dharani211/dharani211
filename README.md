@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Machine Learning, Neural Networks, NLP**
 
-- 📫 How to reach me **mandladharanireddy@gmail.com**
+- 📫 How to reach me **dharani.mandla19@gmail.com**
 
 <h3 align="left">Social Media:</h3>
 
