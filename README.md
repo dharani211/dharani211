@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mandla Dharani</h1>
+<h1 align="center">Hi 👋, I'm Dharani Mandla</h1>
 <h3 align="center">A passionate Software Engineer, Machine Learning Engineer</h3>
 
 <p align="center"> <a href="https://twitter.com/dharanimandla" target="blank"><img src="https://img.shields.io/twitter/follow/dharanimandla?logo=twitter&style=for-the-badge" alt="dharanimandla" /></a> </p>
